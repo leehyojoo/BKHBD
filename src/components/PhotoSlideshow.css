@@ -1,0 +1,44 @@
+.slideshow-container {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 90%;
+    max-height: 500px;
+  }
+  
+  .slide {
+    padding: 10px;
+  }
+  
+  .slide-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .slick-dots {
+    bottom: -30px;
+  }
+  
+  .slick-prev,
+  .slick-next {
+    z-index: 2;
+  }
+  
+  /* 홈 버튼 스타일 */
+  .home-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #f50057;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .home-button:hover {
+    background-color: #ff4081;
+  }
+  

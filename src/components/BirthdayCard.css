@@ -1,0 +1,41 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+    background-color: #ffffff; /* 카드 배경 흰색 */
+    color: #000000; /* 텍스트 검정색 */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 카드 그림자 */
+    text-align: center;
+    max-width: 400px;
+  }
+  
+  .card h2 {
+    margin-bottom: 15px;
+  }
+  
+  .card p {
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+  
+  /* 사진 보기 버튼 스타일 */
+  .go-slideshow-button {
+    background-color: #f50057;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .go-slideshow-button:hover {
+    background-color: #ff4081;
+  }
+  
