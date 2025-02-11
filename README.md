@@ -41,7 +41,7 @@
 
 1. 프로젝트를 클론한다.
    ```sh
-   git clone https://github.com/your-repo/birthday-celebration.git
+   git clone https://github.com/leehyojoo/HBDBK.git
    cd birthday-celebration
    ```
 2. 필요한 패키지를 설치한다.
