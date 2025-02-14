@@ -10,8 +10,7 @@
 - **Typed.js** (텍스트 애니메이션 효과)
 - **Confetti** (`react-confetti`, 축포 효과)
   
-🚀 Netlify 배포
-프로젝트는 Netlify를 사용하여 배포되었음
+🚀 프로젝트는 Netlify를 사용하여 배포되었음
 🔗 https://happybirthdatybk.netlify.app
 ![image](https://github.com/user-attachments/assets/aae655e9-3d36-40ea-b69d-c0f01f398be3)
 
@@ -21,14 +20,14 @@
 📂 birthday-celebration
 ├── 📂 src
 │   ├── 📂 components
-│   │   ├── BirthdayCard.js  # 생일 카드 컴포넌트
-│   │   ├── PhotoSlideshow.js  # 사진 슬라이드쇼 컴포넌트
-│   │   ├── Menu.js  # 네비게이션 메뉴
-│   │   ├── Footer.js  # 푸터 컴포넌트
-│   ├── App.js  # 메인 애플리케이션
-│   ├── App.css  # 스타일 파일
-│   ├── index.js  # 엔트리 포인트
-├── package.json  # 프로젝트 설정 및 의존성 목록
+│   │   ├── BirthdayCard.js  
+│   │   ├── PhotoSlideshow.js
+│   │   ├── Menu.js 
+│   │   ├── Footer.js  
+│   ├── App.js  
+│   ├── App.css  
+│   ├── index.js  
+├── package.json 
 ├── README.md 
 ```
 
