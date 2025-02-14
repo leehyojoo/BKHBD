@@ -13,6 +13,7 @@
 🚀 Netlify 배포
 프로젝트는 Netlify를 사용하여 배포되었음
 🔗 https://happybirthdatybk.netlify.app
+![image](https://github.com/user-attachments/assets/aae655e9-3d36-40ea-b69d-c0f01f398be3)
 
 
 ## 📂 프로젝트 구조
